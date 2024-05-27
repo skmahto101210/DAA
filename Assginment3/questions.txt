@@ -1,0 +1,8 @@
+
+1) Implementation of DFS using adjacency List. Also, list all the types of edges formed in the Depth first forest formed after running DFS on the input graph.
+
+2) Implement BFS.
+
+3) Implement topological sort
+
+4) Implement strongly connected components.

@@ -1,0 +1,9 @@
+Bubble sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Insertion_sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Merge_sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+3-way Merge Sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Quick_sort_first_as_pivot: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Quick_sort_last_as_pivot: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Quick_sort_random_as_pivot: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Coun_sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 
+Heap_Sort: 2 3 4 5 5 6 6 10 20 20 21 23 25 26 48 

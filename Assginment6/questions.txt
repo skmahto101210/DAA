@@ -1,0 +1,8 @@
+1) Implement Activity Selection Problem using-
+Greedy algorithm,
+Dynamic Programming algorithm.
+2) Implement Floyd-Warshall algorithm.
+3) Fractional Knapsack problem.
+4) Find minimum spanning tree using-
+Prim's algorithm,
+Kruskal's algorithm.

@@ -1,0 +1,17 @@
+1) Searching algorithms (Linear, binary, ternary)
+
+2) Sorting algorithms: Design a menu-driven program that includes the functions of sorting algorithms. These sorting algorithms are Merge, insertion, heap, bubble, selection, count, and bucket sort. 
+
+3) WAP to implement binary tree traversal algorithms recursively and non-recursively.
+
+4) Merge Sort:
+         a) WAP to merge k-sorted lists.
+         b) 3-way merge sort
+
+5) Quick Sort:
+        a) Implement Quicksort by considering the pivot element position as - first, last, and random. For all three cases, print the intermediate steps as well.
+        b) ith order statistics (ith minimum or maximum value in an array)
+
+6) Implement Large integer multiplication algorithm (Karatsuba's algorithm)
+
+7) WAP to implement maximum sum subarray problem.

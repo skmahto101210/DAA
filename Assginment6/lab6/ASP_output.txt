@@ -1,0 +1,4 @@
+Selected Values:- 
+(s- 1, f- 4)
+(s- 5, f- 7)
+(s- 8, f- 11)
